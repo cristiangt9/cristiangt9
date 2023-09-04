@@ -1,16 +1,16 @@
 ### Welcome to my GitHub profile! <a href="https://www.linkedin.com/in/cristiangt9/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-### About me
+### 👨🏻‍💻 About me
 
-👨🏻‍💻 I'm Cristian Gonzalez, a seasoned Full Stack Developer with a passion for crafting robust and efficient software solutions. With over 4 years of experience, I've honed my skills in technologies like Laravel, React.js, PHP, JavaScript, and more.
+I'm Cristian Gonzalez, a seasoned Full Stack Developer with a passion for crafting robust and efficient software solutions. With over 4 years of experience, I've honed my skills in technologies like Laravel, React.js, PHP, JavaScript, and more.
 
-💼 My GitHub profile showcases my dedication to clean code, innovation, and problem-solving. I believe in the power of collaboration and open-source development, and I'm excited to share my projects and contributions with the developer community.
+My GitHub profile showcases my dedication to clean code, innovation, and problem-solving. I believe in the power of collaboration and open-source development, and I'm excited to share my projects and contributions with the developer community.
 
-💡 I've successfully designed and developed payment gateways, RESTful APIs, and implemented robust security measures to ensure the protection of customer financial information. My commitment to delivering high-quality results is evident in my code.
+I've successfully designed and developed payment gateways, RESTful APIs, and implemented robust security measures to ensure the protection of customer financial information. My commitment to delivering high-quality results is evident in my code.
 
-🧠 My main goal is to create efficient and scalable solutions that deliver real value to users. I enjoy tackling technical challenges and finding creative solutions to overcome them.
+My main goal is to create efficient and scalable solutions that deliver real value to users. I enjoy tackling technical challenges and finding creative solutions to overcome them.
 
-### Technical Skills
+### 💡 Technical Skills
 
 <table><tbody><tr><td width="33%" valign="top">
 <h3 dir="auto"><a id="user-content-frontend" class="anchor" aria-hidden="true" tabindex="-1" href="#frontend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Frontend</h3>
@@ -51,10 +51,10 @@
 </div>
 </td></tr></tbody></table>
 
-### Contact with me
+###📫 Contact with me
 
-🔗 You can find me on LinkedIn https://www.linkedin.com/in/cristian-gonzalez-torres/ to learn more about my experience and previous projects. I'm open to professional opportunities and interesting collaborations.
+You can find me on LinkedIn https://www.linkedin.com/in/cristian-gonzalez-torres/ to learn more about my experience and previous projects. I'm open to professional opportunities and interesting collaborations.
 
-📫 If you have any questions or just want to get in touch, mail me on cristiangt9@gmail.com.
+If you have any questions or just want to get in touch, mail me on cristiangt9@gmail.com.
 
-#### 🚀 Feel free to explore my repositories and reach out if you'd like to collaborate. Let's make great things happen together in the world of software development!
+### 🚀 Feel free to explore my repositories and reach out if you'd like to collaborate. Let's make great things happen together in the world of software development!
