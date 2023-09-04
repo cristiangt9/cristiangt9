@@ -12,6 +12,10 @@ My main goal is to create efficient and scalable solutions that deliver real val
 
 ### 💡 Technical Skills
 
+#### Backend | Fronted
+-------------|------------------------
+![HTML 5](https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667)
+
 <table><tbody><tr><td width="33%" valign="top">
 <h3 dir="auto"><a id="user-content-frontend" class="anchor" aria-hidden="true" tabindex="-1" href="#frontend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Frontend</h3>
 <div dir="auto" align="center">  
@@ -51,9 +55,9 @@ My main goal is to create efficient and scalable solutions that deliver real val
 </div>
 </td></tr></tbody></table>
 
-###📫 Contact with me
+### 📫 Contact with me
 
-You can find me on LinkedIn https://www.linkedin.com/in/cristian-gonzalez-torres/ to learn more about my experience and previous projects. I'm open to professional opportunities and interesting collaborations.
+You can find me on [LinkedIn](https://www.linkedin.com/in/cristian-gonzalez-torres/) to learn more about my experience and previous projects. I'm open to professional opportunities and interesting collaborations.
 
 If you have any questions or just want to get in touch, mail me on cristiangt9@gmail.com.
 
