@@ -12,23 +12,30 @@ My main goal is to create efficient and scalable solutions that deliver real val
 
 ### 💡 Technical Skills
 
-#### Backend | Fronted
--------------|------------------------
-![HTML 5](https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667)
-
 <table><tbody><tr><td width="33%" valign="top">
 <h3 dir="auto"><a id="user-content-frontend" class="anchor" aria-hidden="true" tabindex="-1" href="#frontend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Frontend</h3>
-<div dir="auto" align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" rel="nofollow"><img src="https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML5" data-canonical-src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" style="max-width: 100%;" height="50"></a>  
+<div dir="auto" align="center">
+  
+<a href="https://en.wikipedia.org/wiki/HTML5" rel="nofollow"><img src="https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML5" data-canonical-src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" style="max-width: 100%;" height="50"></a> 
+
 <a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://camo.githubusercontent.com/1f14c9c472b21cf8790a4fb6914be3a3181e957ecc2b397775f06a989d20cb37/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f637373332d6f726967696e616c2d776f72646d61726b2e737667" alt="CSS3" data-canonical-src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" style="max-width: 100%;" height="50"></a>  
+
 <a href="https://getbootstrap.com/docs/3.4/javascript/" rel="nofollow"><img src="https://camo.githubusercontent.com/3523bd4e344ec5909336e3891b7511da62905e8953381f6fa69c11983e8fd9f6/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f626f6f7473747261702d706c61696e2e737667" alt="Bootstrap" data-canonical-src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" style="max-width: 100%;" height="50"></a>  
+
 <a href="https://reactjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/518977ed5e52020624daf41cf644046368af610f19a7b1220dd1d58377d08288/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="React" data-canonical-src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" style="max-width: 100%;" height="50"></a>  
+
 <a href="https://redux.js.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/b81456c0e15928e93c1e5f4d06b6a6938718d8f106a8169a570cd42b5e32f608/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656475782d6f726967696e616c2e737667" alt="Redux" data-canonical-src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" style="max-width: 100%;" height="50"></a>  
+
 <a href="https://styled-components.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/a962d5a7b4d5f561462f869d3cdc7df2119af7b6fbbbcb5e2846cadd539597f5/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7374796c65642d636f6d706f6e656e74732e706e67" alt="Styled Components" data-canonical-src="https://profilinator.rishav.dev/skills-assets/styled-components.png" style="max-width: 100%;" height="50"></a>  
+
 <a href="https://www.tailwindcss.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/b8b2313d935df145f0f41f6f7169748c37cf6a2a993c40e4a1e7f2f31fbc73df/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7461696c77696e646373732e737667" alt="Tailwind CSS" data-canonical-src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" style="max-width: 100%;" height="50"></a>  
+
 <a href="https://www.figma.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/db639beaeee1c24ed7979a95becbfb0e8067e8e0526d7ce3a74dcb488e6d41fc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6669676d612d69636f6e2e737667" alt="Figma" data-canonical-src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" style="max-width: 100%;" height="50"></a>  
+
 <a href="https://www.adobe.com/in/products/photoshop.html" rel="nofollow"><img src="https://camo.githubusercontent.com/2565a785189e0dccadaa91c5a6a4dc2d872ea848193f93f52aec55b7e854b3fc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f70686f746f73686f702d706c61696e2e737667" alt="Photoshop" data-canonical-src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" style="max-width: 100%;" height="50"></a>  
+
 <a href="https://firebase.google.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/e6e7e4e720421db277c77244ec2cdbc925f09ee2555a718b061f7063ed8c6799/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f66697265626173652e706e67" alt="Firebase" data-canonical-src="https://profilinator.rishav.dev/skills-assets/firebase.png" style="max-width: 100%;" height="50"></a>  
+
 <a href="https://www.ionicframework.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/613385a5ab9b6664a6375f954f3dd5081a359806e792bc61a0536ca2f7fe25bf/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f696f6e69632e737667" alt="Ionic" data-canonical-src="https://profilinator.rishav.dev/skills-assets/ionic.svg" style="max-width: 100%;" height="50"></a>  
 </div>
 </td><td width="33%" valign="top">
