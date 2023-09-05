@@ -10,6 +10,8 @@ I've successfully designed and developed payment gateways, RESTful APIs, and imp
 
 My main goal is to create efficient and scalable solutions that deliver real value to users. I enjoy tackling technical challenges and finding creative solutions to overcome them.
 
+If you're looking for a committed developer who is capable of working in a team and passionate about creating quality applications, feel free to reach out to me! I'm excited to collaborate on innovative projects and contribute to your company's success.
+
 ### 💡 Technical Skills
 
 <p>
