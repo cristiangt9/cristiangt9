@@ -12,23 +12,23 @@ My main goal is to create efficient and scalable solutions that deliver real val
 
 ### 💡 Technical Skills
 
-| Frontend | Backend | Otras Herramientas |
-| --- | --- | --- |
-| ![HTML5](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg) | ![Node.js](https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg) | ![Git](https://profilinator.rishav.dev/skills-assets/git-original-wordmark.svg) |
-| ![CSS](https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg) | ![Express.js](https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg) | ![Jira](https://profilinator.rishav.dev/skills-assets/jira.png) |
-| ![React](https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg) | ![Nest](https://profilinator.rishav.dev/skills-assets/nestjs.svg) | ![Teams](https://profilinator.rishav.dev/skills-assets/microsoft-teams.svg) |
-| ![Vue.js](https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg) | ![Meteor.js](https://profilinator.rishav.dev/skills-assets/meteor.png) | ![Docker](https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg) |
-| ![Figma](https://profilinator.rishav.dev/skills-assets/figma-icon.svg) | ![PHP](https://profilinator.rishav.dev/skills-assets/php-original.svg) | ![Node.js](https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg) |
-| ![Bootstrap](https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg) | ![Laravel](https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg) | ![Redux](https://profilinator.rishav.dev/skills-assets/redux-original.svg) |
-| ![JavaScript](https://profilinator.rishav.dev/skills-assets/javascript-original.svg) | ![Express.js](https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg) | ![GitHub](https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg) |
-| ![Jest](https://profilinator.rishav.dev/skills-assets/jest.png) | ![Nest](https://profilinator.rishav.dev/skills-assets/nestjs.svg) | ![WordPress](https://profilinator.rishav.dev/skills-assets/wordpress.png) |
-| ![Git](https://profilinator.rishav.dev/skills-assets/git-original-wordmark.svg) | ![Node.js](https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg) | ![AWS](https://profilinator.rishav.dev/skills-assets/aws-original-wordmark.svg) |
-| | ![TypeScript](https://profilinator.rishav.dev/skills-assets/typescript-original.svg) | ![Digital Ocean](https://profilinator.rishav.dev/skills-assets/digitalocean.png) |
-| | ![Symfony](https://profilinator.rishav.dev/skills-assets/symfony.png) | |
-| | ![PhpUnit](https://profilinator.rishav.dev/skills-assets/phpunit.png) | |
-| | ![MySQL](https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg) | |
-| | ![PostgreSQL](https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg) | |
-| | ![MongoDB](https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg) | |
+ <table border="1">
+        <thead>
+            <tr>
+                <th>Frontend</th>
+                <th>Backend</th>
+                <th>Otras Herramientas</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"></td>
+                <td><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"></td>
+                <td><img src="https://profilinator.rishav.dev/skills-assets/git-original-wordmark.svg" alt="Git"></td>
+            </tr>
+            <!-- Agrega las filas restantes aquí -->
+        </tbody>
+    </table>
 
 ### 📫 Contact with me
 
