@@ -35,24 +35,13 @@ My main goal is to create efficient and scalable solutions that deliver real val
         </thead>
         <tbody>
             <tr>
-                <td><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS"></td>
-                <td><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"></td>
-                <td><img src="https://profilinator.rishav.dev/skills-assets/git-original-wordmark.svg" alt="Git"></td>
-            </tr>
-            <tr>
-                <td><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma"></td>
-                <td><!-- Deja este espacio en blanco para Backend --></td>
+                <td><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS">
+                <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js">  
+               <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React">
+                 <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma"><
+                </td>
                 <td><img src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" alt="GitHub"></td>
-            </tr>
-            <tr>
-                <td><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React"></td>
-                <td><!-- Deja este espacio en blanco para Backend --></td>
-                <td><!-- Deja este espacio en blanco para Otras Herramientas --></td>
-            </tr>
-            <tr>
-                <td><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js"></td>
-                <td><!-- Deja este espacio en blanco para Backend --></td>
-                <td><!-- Deja este espacio en blanco para Otras Herramientas --></td>
+                <td><img src="https://profilinator.rishav.dev/skills-assets/git-original-wordmark.svg" alt="Git"></td>
             </tr>
         </tbody>
     </table>
