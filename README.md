@@ -12,6 +12,19 @@ My main goal is to create efficient and scalable solutions that deliver real val
 
 ### 💡 Technical Skills
 
+ <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            text-align: center;
+        }
+        img {
+            max-width: 50px;
+        }
+    </style>
  <table border="1">
         <thead>
             <tr>
