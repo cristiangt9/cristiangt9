@@ -48,7 +48,7 @@ If you're looking for a committed developer who is capable of working in a team 
 
 ### 📫 Contact with me
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/cristian-gonzalez-torres/) to learn more about my experience and previous projects. I'm open to professional opportunities and interesting collaborations.
+You can find me on [LinkedIn](https://www.linkedin.com/in/cristian-gonzalez-torres/)] to learn more about my experience and previous projects. I'm open to professional opportunities and interesting collaborations.
 
 If you have any questions or just want to get in touch, mail me on cristiangt9@gmail.com.
 
